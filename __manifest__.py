@@ -8,7 +8,8 @@
     'description': """
         El proposito es mostrar cómo proceder a la hora de 
         desarrollar modulos con un entorno basado en el uso
-        de docker-compose
+        de docker-compose.
+        Actualizacion de modulo
     """,
 
     'author': "My Company",
