@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Modulo de ejemplo",
+    'name': "Modulo de ejemplo. Esto es una actualizacion",
 
     'summary':"""
         Ejemplo agregado con submodules""",
